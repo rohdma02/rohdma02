@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer Science Student at Luther College<br>- IT Technician at @LutherCollege<br>-</p>
+<p align="left">- Computer Science Student at Luther College<br>- IT Technician at @LutherCollege<br>- FullStack Dev</p>
 
 ###
 
@@ -50,9 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohdma02&radius=16&theme=react&area=true&order=5&bg_color=09131b&custom_title=Mat%20Rohden%20Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/rohdma02/rohdma02/output/snake.svg" alt="Snake animation" />
 
 ###
 
