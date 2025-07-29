@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer Science Student at Luther College<br>- IT Technician at @LutherCollege<br>- Passionate about Underground House Music</p>
+<p align="left">- CS graduate from Luther College<br>- Passionate about Underground House Music</p>
 
 ###
 
