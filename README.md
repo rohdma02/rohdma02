@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- CS graduate from Luther College<br>- Passionate about Underground House Music</p>
+<p align="left">- CS graduate from Luther College<br>- Passionate about Underground Eletronic Music</p>
+<p align="left">Never Aggressive, never depressive, always progressive!!!</p>
 
 ###
 
